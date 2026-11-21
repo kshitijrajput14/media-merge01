@@ -1,0 +1,11 @@
+format_id,format_name,resolution,video_codec,audio_codec,container,is_active
+1,4K UHD Master (ProRes),3840x2160,Apple ProRes 422 HQ,LPCM 24-bit 5.1,MOV,True
+2,4K UHD Streaming (HEVC/H.265),3840x2160,HEVC / H.265 Main 10,Dolby Digital Plus E-AC-3,MP4,True
+3,1080p FHD High-Bitrate (AVC/H.264),1920x1080,AVC / H.264 High@L4.1,AAC-LC Stereo 320kbps,MP4,True
+4,1080p FHD Broadcast Clean,1920x1080,XDCAM HD422,PCM 24-bit 48kHz,MXF,True
+5,720p HD Mobile Optimized,1280x720,AVC / H.264 Main,AAC-LC 128kbps,MP4,True
+6,480p SD Low-Bandwidth,854x480,AVC / H.264 Baseline,AAC-LC 96kbps,MP4,True
+7,Lossless Studio Audio (FLAC),N/A,None,FLAC 24-bit 96kHz,FLAC,True
+8,High-Res Master Audio (WAV),N/A,None,LPCM 24-bit 48kHz,WAV,True
+9,Streaming Audio (AAC),N/A,None,AAC-LC 256kbps,M4A,True
+10,Compact Audio (MP3 320k),N/A,None,MP3 320kbps CBR,MP3,True

@@ -1,0 +1,16 @@
+contract_id,contract_code,rights_holder_id,contract_title,contract_type,start_date,end_date,territory,terms_summary,royalty_rate_percent,status,signed_at
+1,CNT-2024-DHRM-001,1,Dharma Premium Blockbusters Exclusive Deal 2024-2026,Exclusive Licensing,2024-01-01,2026-12-31,"India, SAARC",Full SVOD rights for tier 1 releases,18.5,Active,2024-01-05 10:00:00
+2,CNT-2024-YRF-002,2,YRF Action Syndicate Digital Distribution Agreement,Exclusive Licensing,2024-01-10,2026-06-30,"India, Middle East",Streaming rights for theatrical releases,20.0,Active,2024-01-12 11:30:00
+3,CNT-2024-TSR-003,3,T-Series Music & OST Audio Syndication Master,Revenue Share,2024-02-01,2027-01-31,Global,Complete music catalogue streaming split,12.0,Active,2024-02-02 14:00:00
+4,CNT-2024-EXC-004,4,Excel Entertainment Web Series & Drama Contract,Original Production,2024-02-15,2026-02-14,India,Original series co-production,15.0,Active,2024-02-18 16:00:00
+5,CNT-2024-SUN-005,5,Sun Pictures South Regional Blockbuster License,Non-Exclusive Licensing,2024-03-01,2025-08-31,"South India, UAE, Malaysia",Tamil blockbusters streaming package,16.5,Active,2024-03-02 12:00:00
+6,CNT-2024-GTH-006,6,Geetha Arts Telugu Premiere Rights Agreement,Exclusive Licensing,2024-03-10,2026-03-09,"India, USA, Australia",Telugu theatrical slate digital rights,17.0,Active,2024-03-15 15:30:00
+7,CNT-2024-RCH-007,7,Red Chillies Action & Sci-Fi Syndication Rights,Exclusive Licensing,2024-04-01,2026-12-31,Global,Global streaming and VFX rights,19.0,Active,2024-04-05 11:00:00
+8,CNT-2024-ZEE-008,8,Zee Studios Multi-Language Slate Distribution,Non-Exclusive Licensing,2024-04-15,2025-12-31,India,Catalog and new releases distribution,14.0,Active,2024-04-20 17:00:00
+9,CNT-2024-SVF-009,9,SVF Bengali Heritage & Modern Cinema Package,Exclusive Licensing,2024-05-01,2027-04-30,"India, Bangladesh",Bengali classic and contemporary package,15.0,Active,2024-05-05 10:30:00
+10,CNT-2024-SRG-010,10,Saregama Golden Era Restored Cinema Catalog,Exclusive Licensing,2024-05-10,2028-05-09,Global,Archival classics 4K streaming rights,10.0,Active,2024-05-12 14:45:00
+11,CNT-2024-HMB-011,11,Hombale Films Pan-India Franchise Agreement,Exclusive Licensing,2024-06-01,2026-12-31,Global,Pan-India mega-blockbusters agreement,22.0,Active,2024-06-02 16:15:00
+12,CNT-2024-E4E-012,12,E4 South Indie Film Festival Winners Licensing,Non-Exclusive Licensing,2024-06-15,2025-06-14,India,Award-winning Malayalam cinema license,12.5,Active,2024-06-18 09:30:00
+13,CNT-2024-IND-013,1,Dharma Youth & College Rom-Com Package,Non-Exclusive Licensing,2024-07-01,2025-12-31,India,Romantic comedy streaming catalog,14.5,Active,2024-07-02 13:00:00
+14,CNT-2024-DOC-014,4,Excel Wildlife & Cultural Documentary Series,Revenue Share,2024-08-01,2026-07-31,Global,Documentary revenue share arrangement,18.0,Active,2024-08-05 11:20:00
+15,CNT-2024-EXP-015,3,T-Series Promotional Short Tracks Agreement,Revenue Share,2024-01-01,2024-06-30,India,Expired promotional short licensing deal,10.0,Expired,2024-01-02 10:00:00

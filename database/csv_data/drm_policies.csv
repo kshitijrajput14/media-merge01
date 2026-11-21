@@ -1,0 +1,11 @@
+policy_id,policy_name,encryption_type,allow_offline,token_ttl_minutes,watermark_enabled,geo_restriction
+1,Widevine L1 + PlayReady UHD,AES-128-CBC,True,240,True,"IN,SAARC"
+2,Widevine L3 Standard Web,AES-128-CTR,False,120,True,IN
+3,FairPlay iOS Native Secure,AES-128-CBC,True,360,True,GLOBAL
+4,ClearKey Tokenized Preview,AES-128-CTR,False,30,False,IN
+5,Watermarked Editorial Screener,AES-256,False,60,True,INTERNAL_ONLY
+6,Festival Licensing Restricted,AES-128-CBC,False,180,True,"IN,UK,US"
+7,Syndication Partner DRM,AES-128-CTR,True,720,False,"IN,AE,SG"
+8,Open Educational License (No DRM),NONE,True,1440,False,GLOBAL
+9,High-Security Master Vault DRM,AES-256-GCM,False,15,True,OFFICE_IP_ONLY
+10,Rental 48-Hour Auto-Revoke,AES-128-CBC,True,2880,True,IN

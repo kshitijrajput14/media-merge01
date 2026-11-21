@@ -1,0 +1,72 @@
+version_id,asset_id,version_number,file_path,file_size_mb,checksum_sha256,change_summary,created_by,is_active,created_at
+1,1,v1.0.0,/storage/vault/2024/1/1_shershaah:_the_.mp4,4200.5,sha256_934692abcde,Initial production master ingestion,1,True,2024-01-24 10:00:00
+2,2,v1.0.0,/storage/vault/2024/1/2_brahmastra:_par.mp4,6800.0,sha256_871711abcde,Initial production master ingestion,3,True,2024-04-08 10:00:00
+3,3,v1.0.0,/storage/vault/2024/1/3_pathaan:_missio.mp4,4500.2,sha256_277934abcde,Initial production master ingestion,2,True,2024-02-22 10:00:00
+4,4,v1.0.0,/storage/vault/2024/1/4_jawan:_the_vigi.mp4,7100.8,sha256_790855abcde,Initial production master ingestion,5,True,2024-02-19 10:00:00
+5,5,v1.0.0,/storage/vault/2024/1/5_kantara:_a_lege.mp4,4350.0,sha256_188914abcde,Initial production master ingestion,4,True,2024-01-01 10:00:00
+6,6,v1.0.0,/storage/vault/2024/1/6_kgf:_chapter_2_.mp4,7500.0,sha256_397571abcde,Initial production master ingestion,1,True,2024-04-08 10:00:00
+7,7,v1.0.0,/storage/vault/2024/1/7_rrr:_rise_roar_.mp4,8200.0,sha256_640490abcde,Initial production master ingestion,5,True,2024-10-01 10:00:00
+8,8,v1.0.0,/storage/vault/2024/1/8_pushpa:_the_wil.mp4,5100.0,sha256_796101abcde,Initial production master ingestion,5,True,2024-04-23 10:00:00
+9,9,v1.0.0,/storage/vault/2024/1/9_ponniyin_selvan.mp4,6900.4,sha256_763686abcde,Initial production master ingestion,5,True,2024-07-08 10:00:00
+10,10,v1.0.0,/storage/vault/2024/1/10_vikram:_ghost_s.mp4,5400.0,sha256_749342abcde,Initial production master ingestion,4,True,2024-10-09 10:00:00
+11,11,v1.0.0,/storage/vault/2024/3/11_the_elephant_wh.mp4,1200.0,sha256_451470abcde,Initial production master ingestion,1,True,2024-03-23 10:00:00
+12,12,v1.0.0,/storage/vault/2024/1/12_gully_boy:_voic.mp4,3100.0,sha256_197923abcde,Initial production master ingestion,4,True,2024-06-09 10:00:00
+13,13,v1.0.0,/storage/vault/2024/2/13_mirzapur_chroni.mp4,18500.0,sha256_958179abcde,Initial production master ingestion,2,True,2024-04-25 10:00:00
+14,14,v1.0.0,/storage/vault/2024/2/14_panchayat:_phul.mp4,9400.0,sha256_887625abcde,Initial production master ingestion,3,True,2024-02-03 10:00:00
+15,15,v1.0.0,/storage/vault/2024/2/15_sacred_games:_m.mp4,16200.0,sha256_346277abcde,Initial production master ingestion,4,True,2024-02-12 10:00:00
+16,16,v1.0.0,/storage/vault/2024/2/16_farzi:_the_coun.mp4,17800.0,sha256_805477abcde,Initial production master ingestion,3,True,2024-10-09 10:00:00
+17,17,v1.0.0,/storage/vault/2024/4/17_kesariya:_roman.mp4,450.0,sha256_425498abcde,Initial production master ingestion,1,True,2024-08-18 10:00:00
+18,18,v1.0.0,/storage/vault/2024/4/18_naatu_naatu:_os.mp4,980.0,sha256_335552abcde,Initial production master ingestion,1,True,2024-07-03 10:00:00
+19,19,v1.0.0,/storage/vault/2024/4/19_jhoome_jo_patha.mp4,380.0,sha256_945742abcde,Initial production master ingestion,5,True,2024-05-21 10:00:00
+20,20,v1.0.0,/storage/vault/2024/4/20_apna_bana_le:_s.mp4,410.0,sha256_308802abcde,Initial production master ingestion,5,True,2024-06-19 10:00:00
+21,21,v1.0.0,/storage/vault/2024/4/21_deva_deva:_spir.mp4,520.0,sha256_254511abcde,Initial production master ingestion,2,True,2024-02-02 10:00:00
+22,22,v1.0.0,/storage/vault/2024/10/22_aparajito:_ray_.mp4,9200.0,sha256_125611abcde,Initial production master ingestion,2,True,2024-05-03 10:00:00
+23,23,v1.0.0,/storage/vault/2024/10/23_pather_panchali.mp4,9500.0,sha256_148458abcde,Initial production master ingestion,2,True,2024-02-13 10:00:00
+24,24,v1.0.0,/storage/vault/2024/10/24_mughal-e-azam:_.mp4,10500.0,sha256_356736abcde,Initial production master ingestion,3,True,2024-08-21 10:00:00
+25,25,v1.0.0,/storage/vault/2024/10/25_sholay:_70mm_st.mp4,11200.0,sha256_598216abcde,Initial production master ingestion,3,True,2024-03-12 10:00:00
+26,26,v1.0.0,/storage/vault/2024/10/26_jaane_bhi_do_ya.mp4,2800.0,sha256_740967abcde,Initial production master ingestion,3,True,2024-04-22 10:00:00
+27,27,v1.0.0,/storage/vault/2024/2/27_lootere:_high_s.mp4,14200.0,sha256_991014abcde,Initial production master ingestion,3,True,2024-02-20 10:00:00
+28,28,v1.0.0,/storage/vault/2024/2/28_scam_2003:_telg.mp4,12500.0,sha256_905819abcde,Initial production master ingestion,2,True,2024-09-24 10:00:00
+29,29,v1.0.0,/storage/vault/2024/5/29_kantara_folklor.mp4,850.0,sha256_176365abcde,Initial production master ingestion,2,True,2024-03-15 10:00:00
+30,30,v1.0.0,/storage/vault/2024/5/30_coke_studio_bha.mp4,1200.0,sha256_577538abcde,Initial production master ingestion,4,True,2024-05-21 10:00:00
+31,31,v1.0.0,/storage/vault/2024/9/31_sounds_of_the_h.mp4,920.0,sha256_534572abcde,Initial production master ingestion,5,True,2024-04-22 10:00:00
+32,32,v1.0.0,/storage/vault/2024/9/32_filmmaker's_rou.mp4,1900.0,sha256_760356abcde,Initial production master ingestion,3,True,2024-01-08 10:00:00
+33,33,v1.0.0,/storage/vault/2024/3/33_the_great_india.mp4,2900.0,sha256_703634abcde,Initial production master ingestion,1,True,2024-06-13 10:00:00
+34,34,v1.0.0,/storage/vault/2024/3/34_wild_karnataka:.mp4,5800.0,sha256_303880abcde,Initial production master ingestion,3,True,2024-02-07 10:00:00
+35,35,v1.0.0,/storage/vault/2024/3/35_dharmendra:_the.mp4,1800.0,sha256_853240abcde,Initial production master ingestion,5,True,2024-06-07 10:00:00
+36,36,v1.0.0,/storage/vault/2024/1/36_chupke_chupke:_.mp4,2400.0,sha256_830180abcde,Initial production master ingestion,4,True,2024-07-21 10:00:00
+37,37,v1.0.0,/storage/vault/2024/1/37_gol_maal_(1979).mp4,2300.0,sha256_502630abcde,Initial production master ingestion,4,True,2024-03-09 10:00:00
+38,38,v1.0.0,/storage/vault/2024/10/38_anand:_babu_mos.mp4,8900.0,sha256_618392abcde,Initial production master ingestion,2,True,2024-04-24 10:00:00
+39,39,v1.0.0,/storage/vault/2024/1/39_taare_zameen_pa.mp4,3400.0,sha256_519066abcde,Initial production master ingestion,5,True,2024-09-09 10:00:00
+40,40,v1.0.0,/storage/vault/2024/1/40_dangal:_wrestli.mp4,4800.0,sha256_355836abcde,Initial production master ingestion,5,True,2024-07-19 10:00:00
+41,41,v1.0.0,/storage/vault/2024/1/41_chak_de!_india:.mp4,4200.0,sha256_254739abcde,Initial production master ingestion,4,True,2024-06-08 10:00:00
+42,42,v1.0.0,/storage/vault/2024/1/42_zindagi_na_mile.mp4,4600.0,sha256_787926abcde,Initial production master ingestion,2,True,2024-09-16 10:00:00
+43,43,v1.0.0,/storage/vault/2024/1/43_dil_chahta_hai:.mp4,3900.0,sha256_821024abcde,Initial production master ingestion,1,True,2024-01-04 10:00:00
+44,44,v1.0.0,/storage/vault/2024/1/44_gangs_of_wassey.mp4,11200.0,sha256_105814abcde,Initial production master ingestion,2,True,2024-03-22 10:00:00
+45,45,v1.0.0,/storage/vault/2024/1/45_satya:_underwor.mp4,3600.0,sha256_887443abcde,Initial production master ingestion,4,True,2024-10-03 10:00:00
+46,46,v1.0.0,/storage/vault/2024/10/46_kaagaz_ke_phool.mp4,9400.0,sha256_907451abcde,Initial production master ingestion,4,True,2024-07-20 10:00:00
+47,47,v1.0.0,/storage/vault/2024/10/47_awaara_(1951):_.mp4,9800.0,sha256_211764abcde,Initial production master ingestion,4,True,2024-09-09 10:00:00
+48,48,v1.0.0,/storage/vault/2024/10/48_mahanagar:_the_.mp4,8700.0,sha256_916232abcde,Initial production master ingestion,5,True,2024-01-22 10:00:00
+49,49,v1.0.0,/storage/vault/2024/10/49_charulata:_the_.mp4,8200.0,sha256_545798abcde,Initial production master ingestion,1,True,2024-09-25 10:00:00
+50,50,v1.0.0,/storage/vault/2024/1/50_kumbalangi_nigh.mp4,3900.0,sha256_329471abcde,Initial production master ingestion,3,True,2024-06-04 10:00:00
+51,51,v1.0.0,/storage/vault/2024/8/51_jallikattu:_the.mp4,3200.0,sha256_284430abcde,Initial production master ingestion,3,True,2024-07-06 10:00:00
+52,52,v1.0.0,/storage/vault/2024/1/52_the_great_india.mp4,2700.0,sha256_943170abcde,Initial production master ingestion,4,True,2024-01-24 10:00:00
+53,53,v1.0.0,/storage/vault/2024/1/53_super_deluxe:_c.mp4,5200.0,sha256_829716abcde,Initial production master ingestion,3,True,2024-09-25 10:00:00
+54,54,v1.0.0,/storage/vault/2024/1/54_asuran:_blood_o.mp4,4100.0,sha256_643118abcde,Initial production master ingestion,2,True,2024-09-04 10:00:00
+55,55,v1.0.0,/storage/vault/2024/1/55_karnan:_the_reb.mp4,4700.0,sha256_587115abcde,Initial production master ingestion,3,True,2024-09-20 10:00:00
+56,56,v1.0.0,/storage/vault/2024/6/56_mediamerge_tech.mp4,650.0,sha256_152657abcde,Initial production master ingestion,2,True,2024-03-12 10:00:00
+57,57,v1.0.0,/storage/vault/2024/7/57_behind_the_scen.mp4,1100.0,sha256_684482abcde,Initial production master ingestion,2,True,2024-09-25 10:00:00
+58,58,v1.0.0,/storage/vault/2024/3/58_indian_cinema_e.mp4,3800.0,sha256_361303abcde,Initial production master ingestion,5,True,2024-01-20 10:00:00
+59,59,v1.0.0,/storage/vault/2024/9/59_indie_voices_po.mp4,150.0,sha256_989545abcde,Initial production master ingestion,3,True,2024-08-01 10:00:00
+60,60,v1.0.0,/storage/vault/2024/1/60_draft_feature_s.mp4,2500.0,sha256_227253abcde,Initial production master ingestion,1,True,2024-06-10 10:00:00
+61,61,v1.0.0,/storage/vault/edge/asset_61.mp4,3500.0,sha256_578634abcde,Initial production master ingestion,1,True,2026-01-01 12:00:00
+62,1,v1.1.0,/storage/vault/2024/1/1_shershaah:_the__v1.1.mp4,4250.5,sha256_239816revised,Audio remaster and color grade correction,1,False,2024-11-01 15:00:00
+63,2,v1.1.0,/storage/vault/2024/1/2_brahmastra:_par_v1.1.mp4,6850.0,sha256_940346revised,Audio remaster and color grade correction,3,False,2024-11-01 15:00:00
+64,3,v1.1.0,/storage/vault/2024/1/3_pathaan:_missio_v1.1.mp4,4550.2,sha256_587213revised,Audio remaster and color grade correction,2,False,2024-11-01 15:00:00
+65,4,v1.1.0,/storage/vault/2024/1/4_jawan:_the_vigi_v1.1.mp4,7150.8,sha256_800005revised,Audio remaster and color grade correction,5,False,2024-11-01 15:00:00
+66,5,v1.1.0,/storage/vault/2024/1/5_kantara:_a_lege_v1.1.mp4,4400.0,sha256_656932revised,Audio remaster and color grade correction,4,False,2024-11-01 15:00:00
+67,6,v1.1.0,/storage/vault/2024/1/6_kgf:_chapter_2__v1.1.mp4,7550.0,sha256_686075revised,Audio remaster and color grade correction,1,False,2024-11-01 15:00:00
+68,7,v1.1.0,/storage/vault/2024/1/7_rrr:_rise_roar__v1.1.mp4,8250.0,sha256_724377revised,Audio remaster and color grade correction,5,False,2024-11-01 15:00:00
+69,8,v1.1.0,/storage/vault/2024/1/8_pushpa:_the_wil_v1.1.mp4,5150.0,sha256_432711revised,Audio remaster and color grade correction,5,False,2024-11-01 15:00:00
+70,9,v1.1.0,/storage/vault/2024/1/9_ponniyin_selvan_v1.1.mp4,6950.4,sha256_891937revised,Audio remaster and color grade correction,5,False,2024-11-01 15:00:00
+71,10,v1.1.0,/storage/vault/2024/1/10_vikram:_ghost_s_v1.1.mp4,5450.0,sha256_564071revised,Audio remaster and color grade correction,4,False,2024-11-01 15:00:00

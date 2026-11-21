@@ -1,0 +1,7 @@
+role_id,role_name,description
+1,Admin,System administrator with full platform access
+2,Producer,Media creator and executive overseeing asset production and distribution
+3,Content Manager,"Curator managing asset metadata, review, publishing, and scheduling"
+4,Rights & Royalty Officer,"Finance and legal manager auditing rights, sales, and royalties"
+5,Distributor,Partner distributor accessing licensed streaming syndication
+6,Subscriber,End-user with streaming subscription access

@@ -1,0 +1,251 @@
+metadata_id,asset_id,meta_key,meta_value,data_type,created_at
+1,1,aspect_ratio,2.39:1,string,2024-01-24 10:00:00
+2,1,audio_channels,5.1 Surround,string,2024-01-24 10:00:00
+3,1,frame_rate,25 fps,string,2024-01-24 10:00:00
+4,1,color_space,DCI-P3,string,2024-01-24 10:00:00
+5,1,subtitles_available,"Hindi, English",string,2024-01-24 10:00:00
+6,2,aspect_ratio,16:9,string,2024-04-08 10:00:00
+7,2,audio_channels,Dolby Atmos 7.1.4,string,2024-04-08 10:00:00
+8,2,frame_rate,60 fps,string,2024-04-08 10:00:00
+9,2,color_space,BT.709,string,2024-04-08 10:00:00
+10,2,subtitles_available,"Tamil, Telugu, English",string,2024-04-08 10:00:00
+11,3,aspect_ratio,2.39:1,string,2024-02-22 10:00:00
+12,3,audio_channels,Dolby Atmos 7.1.4,string,2024-02-22 10:00:00
+13,3,frame_rate,60 fps,string,2024-02-22 10:00:00
+14,3,color_space,DCI-P3,string,2024-02-22 10:00:00
+15,3,subtitles_available,"Tamil, Telugu, English",string,2024-02-22 10:00:00
+16,4,aspect_ratio,1.85:1,string,2024-02-19 10:00:00
+17,4,audio_channels,Dolby Atmos 7.1.4,string,2024-02-19 10:00:00
+18,4,frame_rate,60 fps,string,2024-02-19 10:00:00
+19,4,color_space,BT.709,string,2024-02-19 10:00:00
+20,4,subtitles_available,"Tamil, Telugu, English",string,2024-02-19 10:00:00
+21,5,aspect_ratio,1.85:1,string,2024-01-01 10:00:00
+22,5,audio_channels,Stereo 2.0,string,2024-01-01 10:00:00
+23,5,frame_rate,29.97 fps,string,2024-01-01 10:00:00
+24,5,color_space,BT.2020 HDR,string,2024-01-01 10:00:00
+25,5,subtitles_available,English Only,string,2024-01-01 10:00:00
+26,6,aspect_ratio,16:9,string,2024-04-08 10:00:00
+27,6,audio_channels,5.1 Surround,string,2024-04-08 10:00:00
+28,6,frame_rate,25 fps,string,2024-04-08 10:00:00
+29,6,color_space,BT.709,string,2024-04-08 10:00:00
+30,6,subtitles_available,"Bengali, English",string,2024-04-08 10:00:00
+31,7,aspect_ratio,16:9,string,2024-10-01 10:00:00
+32,7,audio_channels,Dolby Atmos 7.1.4,string,2024-10-01 10:00:00
+33,7,frame_rate,25 fps,string,2024-10-01 10:00:00
+34,7,color_space,DCI-P3,string,2024-10-01 10:00:00
+35,7,subtitles_available,"Tamil, Telugu, English",string,2024-10-01 10:00:00
+36,8,aspect_ratio,16:9,string,2024-04-23 10:00:00
+37,8,audio_channels,5.1 Surround,string,2024-04-23 10:00:00
+38,8,frame_rate,24 fps,string,2024-04-23 10:00:00
+39,8,color_space,BT.709,string,2024-04-23 10:00:00
+40,8,subtitles_available,"Hindi, English",string,2024-04-23 10:00:00
+41,9,aspect_ratio,16:9,string,2024-07-08 10:00:00
+42,9,audio_channels,Stereo 2.0,string,2024-07-08 10:00:00
+43,9,frame_rate,24 fps,string,2024-07-08 10:00:00
+44,9,color_space,DCI-P3,string,2024-07-08 10:00:00
+45,9,subtitles_available,"Tamil, Telugu, English",string,2024-07-08 10:00:00
+46,10,aspect_ratio,1.85:1,string,2024-10-09 10:00:00
+47,10,audio_channels,Dolby Atmos 7.1.4,string,2024-10-09 10:00:00
+48,10,frame_rate,60 fps,string,2024-10-09 10:00:00
+49,10,color_space,BT.709,string,2024-10-09 10:00:00
+50,10,subtitles_available,"Tamil, Telugu, English",string,2024-10-09 10:00:00
+51,11,aspect_ratio,4:3,string,2024-03-23 10:00:00
+52,11,audio_channels,5.1 Surround,string,2024-03-23 10:00:00
+53,11,frame_rate,60 fps,string,2024-03-23 10:00:00
+54,11,color_space,BT.2020 HDR,string,2024-03-23 10:00:00
+55,11,subtitles_available,"Tamil, Telugu, English",string,2024-03-23 10:00:00
+56,12,aspect_ratio,16:9,string,2024-06-09 10:00:00
+57,12,audio_channels,5.1 Surround,string,2024-06-09 10:00:00
+58,12,frame_rate,60 fps,string,2024-06-09 10:00:00
+59,12,color_space,BT.2020 HDR,string,2024-06-09 10:00:00
+60,12,subtitles_available,English Only,string,2024-06-09 10:00:00
+61,13,aspect_ratio,4:3,string,2024-04-25 10:00:00
+62,13,audio_channels,Stereo 2.0,string,2024-04-25 10:00:00
+63,13,frame_rate,24 fps,string,2024-04-25 10:00:00
+64,13,color_space,DCI-P3,string,2024-04-25 10:00:00
+65,13,subtitles_available,"Hindi, English",string,2024-04-25 10:00:00
+66,14,aspect_ratio,16:9,string,2024-02-03 10:00:00
+67,14,audio_channels,Stereo 2.0,string,2024-02-03 10:00:00
+68,14,frame_rate,29.97 fps,string,2024-02-03 10:00:00
+69,14,color_space,BT.709,string,2024-02-03 10:00:00
+70,14,subtitles_available,"Tamil, Telugu, English",string,2024-02-03 10:00:00
+71,15,aspect_ratio,2.39:1,string,2024-02-12 10:00:00
+72,15,audio_channels,5.1 Surround,string,2024-02-12 10:00:00
+73,15,frame_rate,60 fps,string,2024-02-12 10:00:00
+74,15,color_space,BT.709,string,2024-02-12 10:00:00
+75,15,subtitles_available,English Only,string,2024-02-12 10:00:00
+76,16,aspect_ratio,2.39:1,string,2024-10-09 10:00:00
+77,16,audio_channels,Stereo 2.0,string,2024-10-09 10:00:00
+78,16,frame_rate,60 fps,string,2024-10-09 10:00:00
+79,16,color_space,BT.709,string,2024-10-09 10:00:00
+80,16,subtitles_available,"Hindi, English",string,2024-10-09 10:00:00
+81,17,aspect_ratio,4:3,string,2024-08-18 10:00:00
+82,17,audio_channels,Dolby Atmos 7.1.4,string,2024-08-18 10:00:00
+83,17,frame_rate,24 fps,string,2024-08-18 10:00:00
+84,17,color_space,BT.709,string,2024-08-18 10:00:00
+85,17,subtitles_available,"Hindi, English",string,2024-08-18 10:00:00
+86,18,aspect_ratio,16:9,string,2024-07-03 10:00:00
+87,18,audio_channels,5.1 Surround,string,2024-07-03 10:00:00
+88,18,frame_rate,25 fps,string,2024-07-03 10:00:00
+89,18,color_space,BT.2020 HDR,string,2024-07-03 10:00:00
+90,18,subtitles_available,English Only,string,2024-07-03 10:00:00
+91,19,aspect_ratio,4:3,string,2024-05-21 10:00:00
+92,19,audio_channels,5.1 Surround,string,2024-05-21 10:00:00
+93,19,frame_rate,60 fps,string,2024-05-21 10:00:00
+94,19,color_space,BT.709,string,2024-05-21 10:00:00
+95,19,subtitles_available,"Tamil, Telugu, English",string,2024-05-21 10:00:00
+96,20,aspect_ratio,4:3,string,2024-06-19 10:00:00
+97,20,audio_channels,5.1 Surround,string,2024-06-19 10:00:00
+98,20,frame_rate,60 fps,string,2024-06-19 10:00:00
+99,20,color_space,BT.2020 HDR,string,2024-06-19 10:00:00
+100,20,subtitles_available,English Only,string,2024-06-19 10:00:00
+101,21,aspect_ratio,1.85:1,string,2024-02-02 10:00:00
+102,21,audio_channels,Stereo 2.0,string,2024-02-02 10:00:00
+103,21,frame_rate,60 fps,string,2024-02-02 10:00:00
+104,21,color_space,BT.709,string,2024-02-02 10:00:00
+105,21,subtitles_available,"Tamil, Telugu, English",string,2024-02-02 10:00:00
+106,22,aspect_ratio,1.85:1,string,2024-05-03 10:00:00
+107,22,audio_channels,5.1 Surround,string,2024-05-03 10:00:00
+108,22,frame_rate,24 fps,string,2024-05-03 10:00:00
+109,22,color_space,DCI-P3,string,2024-05-03 10:00:00
+110,22,subtitles_available,"Hindi, English",string,2024-05-03 10:00:00
+111,23,aspect_ratio,1.85:1,string,2024-02-13 10:00:00
+112,23,audio_channels,5.1 Surround,string,2024-02-13 10:00:00
+113,23,frame_rate,24 fps,string,2024-02-13 10:00:00
+114,23,color_space,DCI-P3,string,2024-02-13 10:00:00
+115,23,subtitles_available,English Only,string,2024-02-13 10:00:00
+116,24,aspect_ratio,2.39:1,string,2024-08-21 10:00:00
+117,24,audio_channels,5.1 Surround,string,2024-08-21 10:00:00
+118,24,frame_rate,24 fps,string,2024-08-21 10:00:00
+119,24,color_space,BT.709,string,2024-08-21 10:00:00
+120,24,subtitles_available,"Hindi, English",string,2024-08-21 10:00:00
+121,25,aspect_ratio,16:9,string,2024-03-12 10:00:00
+122,25,audio_channels,Dolby Atmos 7.1.4,string,2024-03-12 10:00:00
+123,25,frame_rate,25 fps,string,2024-03-12 10:00:00
+124,25,color_space,BT.2020 HDR,string,2024-03-12 10:00:00
+125,25,subtitles_available,"Hindi, English",string,2024-03-12 10:00:00
+126,26,aspect_ratio,2.39:1,string,2024-04-22 10:00:00
+127,26,audio_channels,Dolby Atmos 7.1.4,string,2024-04-22 10:00:00
+128,26,frame_rate,24 fps,string,2024-04-22 10:00:00
+129,26,color_space,DCI-P3,string,2024-04-22 10:00:00
+130,26,subtitles_available,"Hindi, English",string,2024-04-22 10:00:00
+131,27,aspect_ratio,4:3,string,2024-02-20 10:00:00
+132,27,audio_channels,Dolby Atmos 7.1.4,string,2024-02-20 10:00:00
+133,27,frame_rate,29.97 fps,string,2024-02-20 10:00:00
+134,27,color_space,BT.2020 HDR,string,2024-02-20 10:00:00
+135,27,subtitles_available,"Tamil, Telugu, English",string,2024-02-20 10:00:00
+136,28,aspect_ratio,1.85:1,string,2024-09-24 10:00:00
+137,28,audio_channels,5.1 Surround,string,2024-09-24 10:00:00
+138,28,frame_rate,29.97 fps,string,2024-09-24 10:00:00
+139,28,color_space,BT.2020 HDR,string,2024-09-24 10:00:00
+140,28,subtitles_available,"Tamil, Telugu, English",string,2024-09-24 10:00:00
+141,29,aspect_ratio,1.85:1,string,2024-03-15 10:00:00
+142,29,audio_channels,Stereo 2.0,string,2024-03-15 10:00:00
+143,29,frame_rate,29.97 fps,string,2024-03-15 10:00:00
+144,29,color_space,BT.709,string,2024-03-15 10:00:00
+145,29,subtitles_available,"Hindi, English",string,2024-03-15 10:00:00
+146,30,aspect_ratio,4:3,string,2024-05-21 10:00:00
+147,30,audio_channels,Dolby Atmos 7.1.4,string,2024-05-21 10:00:00
+148,30,frame_rate,24 fps,string,2024-05-21 10:00:00
+149,30,color_space,BT.709,string,2024-05-21 10:00:00
+150,30,subtitles_available,"Tamil, Telugu, English",string,2024-05-21 10:00:00
+151,31,aspect_ratio,1.85:1,string,2024-04-22 10:00:00
+152,31,audio_channels,5.1 Surround,string,2024-04-22 10:00:00
+153,31,frame_rate,29.97 fps,string,2024-04-22 10:00:00
+154,31,color_space,BT.709,string,2024-04-22 10:00:00
+155,31,subtitles_available,"Tamil, Telugu, English",string,2024-04-22 10:00:00
+156,32,aspect_ratio,1.85:1,string,2024-01-08 10:00:00
+157,32,audio_channels,Stereo 2.0,string,2024-01-08 10:00:00
+158,32,frame_rate,25 fps,string,2024-01-08 10:00:00
+159,32,color_space,BT.2020 HDR,string,2024-01-08 10:00:00
+160,32,subtitles_available,"Bengali, English",string,2024-01-08 10:00:00
+161,33,aspect_ratio,16:9,string,2024-06-13 10:00:00
+162,33,audio_channels,Dolby Atmos 7.1.4,string,2024-06-13 10:00:00
+163,33,frame_rate,29.97 fps,string,2024-06-13 10:00:00
+164,33,color_space,DCI-P3,string,2024-06-13 10:00:00
+165,33,subtitles_available,"Hindi, English",string,2024-06-13 10:00:00
+166,34,aspect_ratio,2.39:1,string,2024-02-07 10:00:00
+167,34,audio_channels,Stereo 2.0,string,2024-02-07 10:00:00
+168,34,frame_rate,24 fps,string,2024-02-07 10:00:00
+169,34,color_space,BT.709,string,2024-02-07 10:00:00
+170,34,subtitles_available,"Tamil, Telugu, English",string,2024-02-07 10:00:00
+171,35,aspect_ratio,1.85:1,string,2024-06-07 10:00:00
+172,35,audio_channels,Stereo 2.0,string,2024-06-07 10:00:00
+173,35,frame_rate,25 fps,string,2024-06-07 10:00:00
+174,35,color_space,DCI-P3,string,2024-06-07 10:00:00
+175,35,subtitles_available,"Bengali, English",string,2024-06-07 10:00:00
+176,36,aspect_ratio,2.39:1,string,2024-07-21 10:00:00
+177,36,audio_channels,Dolby Atmos 7.1.4,string,2024-07-21 10:00:00
+178,36,frame_rate,29.97 fps,string,2024-07-21 10:00:00
+179,36,color_space,DCI-P3,string,2024-07-21 10:00:00
+180,36,subtitles_available,English Only,string,2024-07-21 10:00:00
+181,37,aspect_ratio,1.85:1,string,2024-03-09 10:00:00
+182,37,audio_channels,5.1 Surround,string,2024-03-09 10:00:00
+183,37,frame_rate,24 fps,string,2024-03-09 10:00:00
+184,37,color_space,DCI-P3,string,2024-03-09 10:00:00
+185,37,subtitles_available,English Only,string,2024-03-09 10:00:00
+186,38,aspect_ratio,1.85:1,string,2024-04-24 10:00:00
+187,38,audio_channels,5.1 Surround,string,2024-04-24 10:00:00
+188,38,frame_rate,24 fps,string,2024-04-24 10:00:00
+189,38,color_space,BT.2020 HDR,string,2024-04-24 10:00:00
+190,38,subtitles_available,"Tamil, Telugu, English",string,2024-04-24 10:00:00
+191,39,aspect_ratio,1.85:1,string,2024-09-09 10:00:00
+192,39,audio_channels,5.1 Surround,string,2024-09-09 10:00:00
+193,39,frame_rate,60 fps,string,2024-09-09 10:00:00
+194,39,color_space,DCI-P3,string,2024-09-09 10:00:00
+195,39,subtitles_available,English Only,string,2024-09-09 10:00:00
+196,40,aspect_ratio,16:9,string,2024-07-19 10:00:00
+197,40,audio_channels,5.1 Surround,string,2024-07-19 10:00:00
+198,40,frame_rate,24 fps,string,2024-07-19 10:00:00
+199,40,color_space,DCI-P3,string,2024-07-19 10:00:00
+200,40,subtitles_available,"Tamil, Telugu, English",string,2024-07-19 10:00:00
+201,41,aspect_ratio,16:9,string,2024-06-08 10:00:00
+202,41,audio_channels,Stereo 2.0,string,2024-06-08 10:00:00
+203,41,frame_rate,25 fps,string,2024-06-08 10:00:00
+204,41,color_space,BT.2020 HDR,string,2024-06-08 10:00:00
+205,41,subtitles_available,"Tamil, Telugu, English",string,2024-06-08 10:00:00
+206,42,aspect_ratio,16:9,string,2024-09-16 10:00:00
+207,42,audio_channels,Stereo 2.0,string,2024-09-16 10:00:00
+208,42,frame_rate,29.97 fps,string,2024-09-16 10:00:00
+209,42,color_space,BT.709,string,2024-09-16 10:00:00
+210,42,subtitles_available,"Bengali, English",string,2024-09-16 10:00:00
+211,43,aspect_ratio,2.39:1,string,2024-01-04 10:00:00
+212,43,audio_channels,Dolby Atmos 7.1.4,string,2024-01-04 10:00:00
+213,43,frame_rate,25 fps,string,2024-01-04 10:00:00
+214,43,color_space,DCI-P3,string,2024-01-04 10:00:00
+215,43,subtitles_available,"Hindi, English",string,2024-01-04 10:00:00
+216,44,aspect_ratio,1.85:1,string,2024-03-22 10:00:00
+217,44,audio_channels,Dolby Atmos 7.1.4,string,2024-03-22 10:00:00
+218,44,frame_rate,60 fps,string,2024-03-22 10:00:00
+219,44,color_space,DCI-P3,string,2024-03-22 10:00:00
+220,44,subtitles_available,"Tamil, Telugu, English",string,2024-03-22 10:00:00
+221,45,aspect_ratio,2.39:1,string,2024-10-03 10:00:00
+222,45,audio_channels,5.1 Surround,string,2024-10-03 10:00:00
+223,45,frame_rate,25 fps,string,2024-10-03 10:00:00
+224,45,color_space,BT.2020 HDR,string,2024-10-03 10:00:00
+225,45,subtitles_available,"Hindi, English",string,2024-10-03 10:00:00
+226,46,aspect_ratio,2.39:1,string,2024-07-20 10:00:00
+227,46,audio_channels,Dolby Atmos 7.1.4,string,2024-07-20 10:00:00
+228,46,frame_rate,29.97 fps,string,2024-07-20 10:00:00
+229,46,color_space,BT.2020 HDR,string,2024-07-20 10:00:00
+230,46,subtitles_available,"Tamil, Telugu, English",string,2024-07-20 10:00:00
+231,47,aspect_ratio,1.85:1,string,2024-09-09 10:00:00
+232,47,audio_channels,5.1 Surround,string,2024-09-09 10:00:00
+233,47,frame_rate,24 fps,string,2024-09-09 10:00:00
+234,47,color_space,BT.2020 HDR,string,2024-09-09 10:00:00
+235,47,subtitles_available,"Hindi, English",string,2024-09-09 10:00:00
+236,48,aspect_ratio,4:3,string,2024-01-22 10:00:00
+237,48,audio_channels,5.1 Surround,string,2024-01-22 10:00:00
+238,48,frame_rate,25 fps,string,2024-01-22 10:00:00
+239,48,color_space,BT.2020 HDR,string,2024-01-22 10:00:00
+240,48,subtitles_available,"Bengali, English",string,2024-01-22 10:00:00
+241,49,aspect_ratio,1.85:1,string,2024-09-25 10:00:00
+242,49,audio_channels,5.1 Surround,string,2024-09-25 10:00:00
+243,49,frame_rate,25 fps,string,2024-09-25 10:00:00
+244,49,color_space,BT.709,string,2024-09-25 10:00:00
+245,49,subtitles_available,"Tamil, Telugu, English",string,2024-09-25 10:00:00
+246,50,aspect_ratio,4:3,string,2024-06-04 10:00:00
+247,50,audio_channels,Stereo 2.0,string,2024-06-04 10:00:00
+248,50,frame_rate,29.97 fps,string,2024-06-04 10:00:00
+249,50,color_space,BT.709,string,2024-06-04 10:00:00
+250,50,subtitles_available,"Bengali, English",string,2024-06-04 10:00:00

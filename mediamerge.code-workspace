@@ -1,0 +1,20 @@
+{
+  "folders": [
+    {
+      "name": "MediaMerge Root",
+      "path": "."
+    },
+    {
+      "name": "Backend (Django & APIs)",
+      "path": "backend"
+    },
+    {
+      "name": "Frontend (React 18 & UI)",
+      "path": "frontend"
+    }
+  ],
+  "settings": {
+    "python.defaultInterpreterPath": "${workspaceFolder:Backend (Django & APIs)}/venv/Scripts/python.exe",
+    "python.testing.pytestEnabled": true
+  }
+}

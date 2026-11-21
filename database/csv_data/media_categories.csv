@@ -1,0 +1,11 @@
+category_id,category_name,code,description,is_active
+1,Feature Film,FEATURE_FILM,Full-length theatrical and streaming narrative motion pictures,True
+2,Web Series,WEB_SERIES,"Episodic narrative dramas, comedies, and mini-series",True
+3,Documentary,DOCUMENTARY,"Non-fiction educational, wildlife, and biographical features",True
+4,Music Video,MUSIC_VIDEO,Official musical tracks and synchronized video releases,True
+5,Original Soundtrack,OST_AUDIO,Standalone high-fidelity musical scores and audio tracks,True
+6,Trailer & Promo,PROMO_TRAILER,"Teaser trailers, launch promos, and marketing cutdowns",True
+7,Behind the Scenes,BTS_FEATURE,"Exclusive making-of reels, director interviews, and B-roll",True
+8,Short Film,SHORT_FILM,Curated independent cinema under 45 minutes,True
+9,Podcast & Talk Show,PODCAST,Spoken-word cultural talks and entertainment discussions,True
+10,4K Archival Classic,ARCHIVAL,Digitally restored heritage cinema of Indian golden age,True
